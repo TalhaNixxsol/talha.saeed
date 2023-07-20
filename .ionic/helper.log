@@ -1,0 +1,112 @@
+[[40mWARN[49m] Error loading @capacitor/ios package.json: Error: Cannot find module '@capacitor/ios/package.json'
+       
+       Require stack:
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\lib\project\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\lib\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\bin\ionic
+[[40mWARN[49m] Error loading @capacitor/android package.json: Error: Cannot find module '@capacitor/android/package.json'
+       
+       Require stack:
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\lib\project\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\lib\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\bin\ionic
+[[40mWARN[49m] Error loading @capacitor/ios package.json: Error: Cannot find module '@capacitor/ios/package.json'
+       
+       Require stack:
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\lib\project\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\lib\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\bin\ionic
+[[40mWARN[49m] Error loading @capacitor/android package.json: Error: Cannot find module '@capacitor/android/package.json'
+       
+       Require stack:
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\lib\project\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\lib\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\bin\ionic
+[[40mWARN[49m] Error loading @capacitor/ios package.json: Error: Cannot find module '@capacitor/ios/package.json'
+       
+       Require stack:
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\lib\project\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\lib\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\bin\ionic
+[[40mWARN[49m] Error loading @capacitor/android package.json: Error: Cannot find module '@capacitor/android/package.json'
+       
+       Require stack:
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\lib\project\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\lib\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\bin\ionic
+[[40mWARN[49m] Error loading @ionic/angular package.json: Error: Cannot find module '@ionic/angular/package.json'
+       
+       Require stack:
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\lib\project\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\lib\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\bin\ionic
+[[40mWARN[49m] Error loading @ionic/angular-toolkit package.json: Error: Cannot find module '@ionic/angular-toolkit/package.json'
+       
+       Require stack:
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\lib\project\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\lib\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\bin\ionic
+[[40mWARN[49m] Error loading @angular/cli package.json: Error: Cannot find module '@angular/cli/package.json'
+       
+       Require stack:
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\lib\project\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\lib\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\bin\ionic
+[[40mWARN[49m] Error loading @angular-devkit/build-angular package.json: Error: Cannot find module '@angular-devkit/build-angular/package.json'
+       
+       Require stack:
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\lib\project\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\lib\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\bin\ionic
+[[40mWARN[49m] Error loading @angular-devkit/schematics package.json: Error: Cannot find module '@angular-devkit/schematics/package.json'
+       
+       Require stack:
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\lib\project\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\lib\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\bin\ionic
+[[40mWARN[49m] Error loading @ionic/angular package.json: Error: Cannot find module '@ionic/angular/package.json'
+       
+       Require stack:
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\lib\project\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\lib\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\bin\ionic
+[[40mWARN[49m] Error loading @ionic/angular-toolkit package.json: Error: Cannot find module '@ionic/angular-toolkit/package.json'
+       
+       Require stack:
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\lib\project\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\lib\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\bin\ionic
+[[40mWARN[49m] Error loading @angular/cli package.json: Error: Cannot find module '@angular/cli/package.json'
+       
+       Require stack:
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\lib\project\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\lib\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\bin\ionic
+[[40mWARN[49m] Error loading @angular-devkit/build-angular package.json: Error: Cannot find module '@angular-devkit/build-angular/package.json'
+       
+       Require stack:
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\lib\project\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\lib\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\bin\ionic
+[[40mWARN[49m] Error loading @angular-devkit/schematics package.json: Error: Cannot find module '@angular-devkit/schematics/package.json'
+       
+       Require stack:
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\lib\project\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\lib\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\index.js
+       - C:\Users\talha.saeed\AppData\Roaming\npm\node_modules\@ionic\cli\bin\ionic

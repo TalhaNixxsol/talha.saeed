@@ -1,0 +1,14 @@
+{
+  "version": "7.1.1",
+  "telemetry": true,
+  "npmClient": "npm",
+  "git.setup": false,
+  "user.id": 3352651,
+  "user.email": "Talha.saeed@nixxsol.com",
+  "tokens.user": "ion_eCyArfBu2fgNaK2ZajCQgBcYDVInniiI5jMuQ34xXt0C3n83",
+  "tokens.refresh": "ion_P1jv6bH8yhj7N22INN7Rk4cnF8wdfq09qSUvJXkiRzcbwi793kYOz0",
+  "tokens.expiresInSeconds": 864000,
+  "tokens.issuedOn": "2023-07-19T13:38:00.820Z",
+  "tokens.flowName": "open_id",
+  "tokens.telemetry": "fd0e56f3-1f0b-4869-bbb0-f15310683ea1"
+}
